@@ -1,0 +1,19 @@
+.box{
+background-color: black;
+color: white;
+padding: 10%;
+margin: 500px 0;
+width: 600px;
+}
+body{
+    background-color: rgb(20, 255, 20);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.image img{
+    width: 260px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
